@@ -1,7 +1,7 @@
 import math
 
-def power(a, b):
-    return a ** b
+def power(c, d):
+    return c ** d
 
 def logarithm(a, base):
     if a <= 0:
